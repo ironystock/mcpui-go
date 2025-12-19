@@ -3,7 +3,7 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/ironystock/mcpui-go@v0.1.0.svg)](https://pkg.go.dev/github.com/ironystock/mcpui-go@v0.1.0)
 [![Go Report Card](https://goreportcard.com/badge/github.com/ironystock/mcpui-go)](https://goreportcard.com/report/github.com/ironystock/mcpui-go)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitMCP](https://img.shields.io/endpoint?url=https://gitmcp.io/badge/idosal/git-mcp)](https://gitmcp.io/idosal/git-mcp)
+[![GitMCP](https://img.shields.io/endpoint?url=https://gitmcp.io/badge/ironystock/mcpui-go)](https://gitmcp.io/ironystock/mcpui-go))
 [![Twitter Follow](https://img.shields.io/twitter/follow/ironystock?style=social)](https://twitter.com/ironystock)
 
 A Go SDK for the MCP-UI protocol, enabling MCP servers to return interactive UI resources that clients can render in sandboxed iframes.
