@@ -49,4 +49,4 @@ import "github.com/ironystock/mcpui-go"
 
 - [README.md](../README.md) - Package overview and quick start
 - [examples/](../examples/) - Runnable example programs
-- [Go Reference](https://pkg.go.dev/github.com/ironystock/mcpui-go) - API documentation
+- [Go Reference](https://pkg.go.dev/github.com/ironystock/mcpui-go@v0.1.0) - API documentation

@@ -1,6 +1,6 @@
 # mcpui-go
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/ironystock/mcpui-go.svg)](https://pkg.go.dev/github.com/ironystock/mcpui-go)
+[![Go Reference](https://pkg.go.dev/badge/github.com/ironystock/mcpui-go@v0.1.0.svg)](https://pkg.go.dev/github.com/ironystock/mcpui-go@v0.1.0)
 [![Go Report Card](https://goreportcard.com/badge/github.com/ironystock/mcpui-go)](https://goreportcard.com/report/github.com/ironystock/mcpui-go)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -18,7 +18,7 @@ MCP-UI extends the Model Context Protocol (MCP) to support rich, interactive use
 ## Installation
 
 ```bash
-go get github.com/ironystock/mcpui-go
+go get github.com/ironystock/mcpui-go@v0.1.0
 ```
 
 ## Quick Start
